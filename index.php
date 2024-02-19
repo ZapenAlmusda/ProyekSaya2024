@@ -1,3 +1,3 @@
 <?php
-ehco "hello word";
+echo "Blajar Edit Kode di Github";
 ?>
